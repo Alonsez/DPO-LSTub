@@ -14,6 +14,7 @@ public class CercaResultats {
 
         JsonParser info = new JsonParser();
         CercaYoutube cercaYoutube = new CercaYoutube();
+        Servidor = new Servidor();
 
         String url;
         Scanner sc1 = new Scanner(System.in);
